@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>Personal Website</title>
+	</head>
+	<body>
+		<header>
+			<h2>Anastasiia Rudenko</h2>
+			<nav>
+			
+			</nav>
+		</header>
+		<main>
+			<h1>Helloooooooooo!</h1>
+			<p> text text text </p>
+		</main>
+		<footer>
+			<p>footer text</p>
+		</footer>
+	</body>
+</html>
